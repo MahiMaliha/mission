@@ -1,0 +1,144 @@
+/* full website style start  */
+body {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* full website style end  */
+
+.brand-color {
+    color: blue;
+}
+
+.headline h1 {
+    font-size: 3.5em;
+}
+
+h1 {
+    font-size: 2.5em;
+    line-height: 2rem;
+}
+
+p {
+    color: rgb(88, 84, 84);
+}
+
+.headline {
+    padding-left: 10px;
+    font-family: 'Source Serif Pro', serif;
+    line-height: 2.5rem;
+    border-left: 5px solid blue;
+}
+
+.display-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 75px;
+}
+
+.container {
+    margin: 0 auto;
+    margin-bottom: 100px;
+    width: 90%;
+}
+
+.fullsite-half-width {
+    width: 50%;
+    margin: auto 0;
+}
+
+.fullsite-half-width img {
+    width: 75%;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    padding: 0 5%;
+}
+
+/* Brand Button */
+.btn {
+    margin: 30px 0;
+}
+
+.all-btn {
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background-color: #20709a;
+    border-radius: 10px;
+}
+
+/* Card Section Style */
+.card-section {
+    display: flex;
+
+}
+
+.card {
+    width: 30%;
+    box-shadow: 10px 10px 30px rgb(180, 172, 172);
+    margin: 1%;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+
+.card img {
+    width: 50%;
+}
+
+#mission {
+    background-color: rgb(237, 245, 246);
+}
+
+#vission {
+    background-color: rgb(255, 238, 238);
+}
+
+#goals {
+    background-color: rgb(255, 244, 214);
+}
+
+/*Form Style  */
+input {
+    width: 70%;
+    margin: 5px 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.input-msg {
+    width: 70%;
+    padding: 10px 10px 150px 10px;
+}
+
+/* Footer Style */
+footer {
+    height: 300px;
+    text-align: center;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer h1 {
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 2.5rem;
+}
+
+
+footer p {
+    color: gray;
+}
