@@ -7,6 +7,7 @@ body {
 }
 /* full website style end  */
 
+/* 2022 color  */
 .brand-color {
     color: blue;
 }
@@ -24,6 +25,7 @@ p {
     color: rgb(88, 84, 84);
 }
 
+/* top heading sidebar  */
 .headline {
     padding-left: 10px;
     font-family: 'Source Serif Pro', serif;
@@ -47,6 +49,7 @@ p {
     width: 90%;
 }
 
+/* full website styles  */
 .fullsite-half-width {
     width: 50%;
     margin: auto 0;
@@ -78,7 +81,7 @@ p {
     border-radius: 10px;
 }
 
-/* Card Section Style */
+/* mission Card Section Style */
 .card-section {
     display: flex;
 
@@ -97,14 +100,17 @@ p {
     width: 50%;
 }
 
+/* mission background style  */
 #mission {
     background-color: rgb(237, 245, 246);
 }
 
+/* vission background style  */
 #vission {
     background-color: rgb(255, 238, 238);
 }
 
+/* goals background style  */
 #goals {
     background-color: rgb(255, 244, 214);
 }
