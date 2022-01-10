@@ -6,7 +6,7 @@
 --Our Mission Section 
 <br>
 <br>
---Our Community Section
+--Build Application Section
 <br>
 <br>
 --Contact Us Section
